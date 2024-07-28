@@ -31,7 +31,7 @@ A web scraping tool using Python and the Pyppeteer WebDriver to extract student 
     pip install -q -U google-generativeai
     pip install pyppeteer
     pip install asyncio
-    pip install 
+    pip install idk what else
     ```
 
 3. Set up the API key in the config file:
