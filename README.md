@@ -10,7 +10,7 @@ A web scraping tool using Python and the Pyppeteer WebDriver to extract student 
 
 ## Prerequisites
 
-- Python 3.x
+- `Python 3.x`
 - `pyppeteer`
 - `google-generativeai`
 - `fake_useragent`
