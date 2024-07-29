@@ -66,3 +66,9 @@ A web scraping tool using Python and the Pyppeteer WebDriver to extract student 
 2. Enter the name of the professor when prompted.
 
 3. The script will scrape reviews from Rate My Professors and generate a comprehensive summary.
+
+Example:
+<img width="1701" alt="Screenshot 2024-07-28 at 7 08 44 PM" src="https://github.com/user-attachments/assets/24e1af19-0400-444d-afb1-34f2b91ab3cf">
+
+
+
