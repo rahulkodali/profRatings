@@ -42,7 +42,7 @@ A web scraping tool using Python and the Pyppeteer WebDriver to extract student 
     //in config file
     API_KEY=your_api_key_here
     ```
-4. For schools other than UT change base of curr url:
+4. For schools other than UT change base of curr url in ratings.py:
 
     ```plaintext
     //example
