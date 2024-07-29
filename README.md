@@ -42,6 +42,17 @@ A web scraping tool using Python and the Pyppeteer WebDriver to extract student 
     //in config file
     API_KEY=your_api_key_here
     ```
+4. For schools other than UT change base of curr url:
+
+    ```plaintext
+    //example
+    
+    //in ratings file -> currently for UT
+    curr = "https://www.ratemyprofessors.com/search/professors/1255?q=" + name
+    
+    //for Texas A&M replace curr to
+    curr = "https://www.ratemyprofessors.com/search/professors/1003?q=" + name
+    ```
 
 
 ## Usage
