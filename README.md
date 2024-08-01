@@ -1,6 +1,8 @@
 # Professor Ratings
 A web scraping tool using Python and the Pyppeteer WebDriver to extract student reviews of specific professor from Rate My Professors to create one comprehensive review list with pros, cons, ratings, and etc.
 
+Updated for frontend UI code + Flask API here: https://github.com/rahulkodali/profRatingsDeployable
+
 ## Features
 
 - **Asynchronous Web Scraping**: Utilizes `pyppeteer` for efficient data extraction from dynamically loaded web pages.
