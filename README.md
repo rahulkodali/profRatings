@@ -69,7 +69,7 @@ Updated for frontend UI code + Flask API here: https://github.com/rahulkodali/pr
 
 3. The script will scrape reviews from Rate My Professors and generate a comprehensive summary.
 
-Example:
+Sample:
 <img width="1701" alt="Screenshot 2024-07-28 at 7 08 44 PM" src="https://github.com/user-attachments/assets/24e1af19-0400-444d-afb1-34f2b91ab3cf">
 
 
